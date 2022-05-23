@@ -30,6 +30,8 @@ insert into produtos (produto,marca,quantidade,valor)
 values ('Kit para pintura 10 peças','Tigre',23,'23,90');
 insert into produtos (produto,marca,quantidade,valor)
 values ('Bisnaga Rosa','Xadrez',35,'5.90');
+insert into produtos (produto,marca,quantidade,valor)
+values ('Massa Corrida','Coral',8,'55.90');
 
 
 select * from produtos;
